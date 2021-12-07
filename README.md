@@ -3,13 +3,9 @@ Tarifit Keyboard for macOS
 
 
 
-
-
-https://raw.github.com/ipshel/TarifitKeyboardMacOS/main/shot0001.jpg
-
 ## Download
 
-You can download `TarifitKeyboard.dmg` directly from [here](https://github.com/ipshel/TarifitKeyboardMacOS/blob/main/TarifitKeyboard.dmg) or by cloning this repo:
+You can download `TarifitKeyboard.dmg` directly from [here](https://github.com/ipshel/TarifitKeyboardMacOS/raw/main/TarifitKeyboard.dmg) or by cloning this repo:
 
 ```bash
 git clone https://github.com/ipshel/TarifitKeyboardMacOS.git
@@ -30,6 +26,7 @@ you can follow those steps to install Tarifit Keyboard:
 ![screenshot](/screenshots/shot0003.jpg)
 ***IN CASE YOU CANNOT SEE SOMETHING SIMILAR TO PREVIOUS IMAGE, TRY ALTERNATIVE METHODE IN 4. OTHERWISE SKIP TO 5.***
 4. *only if step 3 did not work*. Drag `Tarifit` lego icon to `Keyboard Layouts` in the right corner. This methode will ask fot authentication
+
 ![screenshot](/screenshots/shot0004.jpg)
 ![screenshot](/screenshots/shot0005.jpg)
 5. Close `Tarifit Keyboard` image.
@@ -79,7 +76,7 @@ You can access Tarifit characters by using combination of `option-key` or `⌥` 
 
 <kbd>alt ⌥</kbd>+<kbd>⇧ shift</kbd>+<kbd>h</kbd> = Ḥ
 
-<kbd>alt ⌥</kbd>+<kbd>/</kbd> = ⵣ
+<kbd>⌥</kbd>+<kbd>/</kbd> = ⵣ
 
 
 ## Contributing
