@@ -19,25 +19,33 @@ You can copy `Tarifit.bundle` to your local library `/Users/<youname>/Library/Ke
 you can follow those steps to install Tarifit Keyboard:
 1. Double click to open the image.
 ![screenshot](/screenshots/shot0001.jpg)
+
 2. Double click on `Tarifit` lego icon with a red dot. 
 ![screenshot](/screenshots/shot0002.jpg)
+
 3. Choose `install for current user` or `for all users`
    - `for all users` will ask for authentication
 ![screenshot](/screenshots/shot0003.jpg)
 ***IN CASE YOU CANNOT SEE SOMETHING SIMILAR TO PREVIOUS IMAGE, TRY ALTERNATIVE METHODE IN 4. OTHERWISE SKIP TO 5.***
+
 4. *only if step 3 did not work*. Drag `Tarifit` lego icon to `Keyboard Layouts` in the right corner. This methode will ask fot authentication
 
 ![screenshot](/screenshots/shot0004.jpg)
 ![screenshot](/screenshots/shot0005.jpg)
+
 5. Close `Tarifit Keyboard` image.
 ![screenshot](/screenshots/shot0006.jpg)
+
 6. Eject `Tarifit Keyboard` image.
 ![screenshot](/screenshots/shot0007.jpg)
+
 7. Open Keyboard Preferences.
 ![screenshot](/screenshots/shot0008.jpg)
+
 8. Click on `+` sign. Add/Search for *Tarifit*, *Riffian* or *rif*.
 ![screenshot](/screenshots/shot0009.jpg)
 ![screenshot](/screenshots/shot0010.jpg)
+
 9. Now you can select `Tarifit` among other languages.
 ![screenshot](/screenshots/shot0011.jpg)
 
