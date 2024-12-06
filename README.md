@@ -90,7 +90,7 @@ You can access Tarifit characters by using combination of `option-key` or `⌥` 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-This is under **Project 417**, for more infos contact [Ilyahoo Proshel](mailto:ip@ipshel.com).
+This is under **OpenRifProject**[OpenRif.com](https://openrif.com), for more infos contact [Ilyahoo Proshel](mailto:ip@ipshel.com).
 
 2020
 ## License
