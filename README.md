@@ -6,7 +6,7 @@ The **Tarifit Keyboard** allows users to type in the Tarifit (Riffian) language 
 ## Installation  
 
 ### Advanced Users  
-For advanced users, you can either clone the repository or directly download the `Tarifit.bundle` from [here](https://github.com/ipshel/TarifitKeyboardMacOS/raw/main/Tarifit.bundle). Once you have the `Tarifit.bundle`, follow the steps below to copy it to the appropriate directory.
+For advanced users, you need to clone the repository or directly download the zip file`Tarifit.bundle.zip` from [here](https://github.com/ipshel/TarifitKeyboardMacOS/raw/main/Tarifit.bundle.zip). Once you have the `Tarifit.bundle`, follow the steps below to copy it to the appropriate directory.
 
 #### Option 1: Using Terminal (after cloning the repo)
 
@@ -35,9 +35,10 @@ For advanced users, you can either clone the repository or directly download the
 ####  Option 2: Manual Copy
 
 If you prefer to copy the file manually:
-1. Downlaoad `Tarifit.bundle` directly from [here](https://github.com/ipshel/TarifitKeyboardMacOS/raw/main/Tarifit.bundle).
-2. Open Finder and locate `Tarifit.bundle` file.
-3. Manually copy `Tarifit.bundle` to one of the following directories:
+1. Downlaoad `Tarifit.bundle.zip` directly from [here](https://github.com/ipshel/TarifitKeyboardMacOS/raw/main/Tarifit.bundle.zip).
+2. Extract the zip file in order to get `Tarifit.bundle`.
+3. Open Finder and locate `Tarifit.bundle` file.
+4. Manually copy `Tarifit.bundle` to one of the following directories:
     - For local use:
     `/Users/<yourname>/Library/Keyboard\ Layouts/`
     - For system-wide use:
