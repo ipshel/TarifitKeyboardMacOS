@@ -8,7 +8,7 @@ The **Tarifit Keyboard** allows users to type in the Tarifit (Riffian) language 
 ### Advanced Users  
 For advanced users, you can either clone the repository or directly download the `Tarifit.bundle` from [here](https://github.com/ipshel/TarifitKeyboardMacOS/raw/main/Tarifit.bundle). Once you have the `Tarifit.bundle`, follow the steps below to copy it to the appropriate directory.
 
-##### Option 1: Using Terminal (after cloning the repo)
+#### Option 1: Using Terminal (after cloning the repo)
 
 1. **Clone the repository**:  
    Open Terminal and run the following command to clone the repository:
@@ -32,7 +32,7 @@ For advanced users, you can either clone the repository or directly download the
     
     In both cases, replace `<yourname>` with your username.
 
-#####  Option 2: Manual Copy
+####  Option 2: Manual Copy
 
 If you prefer to copy the file manually:
 1. Downlaoad `Tarifit.bundle` directly from [here](https://github.com/ipshel/TarifitKeyboardMacOS/raw/main/Tarifit.bundle).
@@ -119,10 +119,9 @@ You can access Tarifit characters using the `Option ⌥` key (or `Alt`) combined
 ---
 
 ## Contributing  
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to modify.  
 
-This project is part of the [**Open Rif Project**](https://openrif.com).  
-For more information, contact [Ilyahoo Proshel](mailto:ip@ipshel.com).  
+This project is part of the [Open Rif Project](https://openrif.com).  
+For more information or contribution please contact info@openrif.com.  
 
 ---
 
