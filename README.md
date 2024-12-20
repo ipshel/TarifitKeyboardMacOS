@@ -49,7 +49,7 @@ If you prefer to copy the file manually:
 ### Regular Users  
 Follow these steps to install the Tarifit Keyboard:  
 
-1. ***Download the disc image**
+1. **Download the disc image**
     You can download the `TarifitKeyboard.dmg` directly from [here](https://github.com/ipshel/TarifitKeyboardMacOS/raw/main/TarifitKeyboard.dmg)
 2. **Open the downloaded image**  
    Double-click the `TarifitKeyboard.dmg` file.  
