@@ -1,97 +1,132 @@
-# TarifitKeyboardMacOS
-Tarifit Keyboard for macOS
 
+# Tarifit Keyboard for macOS  
 
+The **Tarifit Keyboard** allows users to type in the Tarifit (Riffian) language seamlessly on macOS. This keyboard layout provides access to special characters commonly used in Tarifit, helping users write in their native script with ease. Whether you're an advanced user or someone new to custom keyboard layouts, this guide will walk you through the installation and usage process.  
 
-## Download
+## Installation  
 
-You can download `TarifitKeyboard.dmg` directly from [here](https://github.com/ipshel/TarifitKeyboardMacOS/raw/main/TarifitKeyboard.dmg) or by cloning this repo:
+### Advanced Users  
+For advanced users, you can either clone the repository or directly download the `Tarifit.bundle` from [here](https://github.com/ipshel/TarifitKeyboardMacOS/raw/main/Tarifit.bundle). Once you have the `Tarifit.bundle`, follow the steps below to copy it to the appropriate directory.
 
-```bash
-git clone https://github.com/ipshel/TarifitKeyboardMacOS.git
-```
+##### Option 1: Using Terminal (after cloning the repo)
 
-## Installation
-#### Advanced users only:
-You can copy `Tarifit.bundle` to your local library `/Users/<youname>/Library/Keyboard\ Layouts/` to add the keyboard locally. or to `/Library/Keyboard\ Layouts` for wide system use. Then you add *Tarifit*, *Riffian*, or *rif* from input source preferences.
+1. **Clone the repository**:  
+   Open Terminal and run the following command to clone the repository:
+   ```bash
+   git clone https://github.com/ipshel/TarifitKeyboardMacOS.git
+   ```
+2. **Navigate to the cloned repository**:
+    Change to the directory where the `Tarifit.bundle` is located:
+    ```bash
+    cd TarifitKeyboardMacOS
+    ```
+3. **Copy `Tarifit.bundle` to the desired directory**:
+    - **for local use**:
+    ```bash
+    cp -r Tarifit.bundle /Users/<yourname>/Library/Keyboard\\ Layouts/
+    ```
+    - **for system-wide use**:
+    ```bash
+    sudo cp -r Tarifit.bundle /Library/Keyboard\\ Layouts/
+    ```
+    
+    In both cases, replace `<yourname>` with your username.
 
-### Regular users:
-you can follow those steps to install Tarifit Keyboard:
-1. Double click to open the image.
-![screenshot](/screenshots/shot0001.jpg)
+#####  Option 2: Manual Copy
 
-2. Double click on `Tarifit` lego icon with a red dot. 
-![screenshot](/screenshots/shot0002.jpg)
+If you prefer to copy the file manually:
+1. Downlaoad `Tarifit.bundle` directly from [here](https://github.com/ipshel/TarifitKeyboardMacOS/raw/main/Tarifit.bundle).
+2. Open Finder and locate `Tarifit.bundle` file.
+3. Manually copy `Tarifit.bundle` to one of the following directories:
+    - For local use:
+    `/Users/<yourname>/Library/Keyboard\ Layouts/`
+    - For system-wide use:
+    `/Library/Keyboard\ Layouts/`
 
-3. Choose `install for current user` or `for all users`
-   - `for all users` will ask for authentication
-![screenshot](/screenshots/shot0003.jpg)
-***IN CASE YOU CANNOT SEE SOMETHING SIMILAR TO PREVIOUS IMAGE, TRY ALTERNATIVE METHODE IN 4. OTHERWISE SKIP TO 5.***
+    where `<yourname>` is your username.
 
-4. *only if step 3 did not work*. Drag `Tarifit` lego icon to `Keyboard Layouts` in the right corner. This methode will ask fot authentication
+### Regular Users  
+Follow these steps to install the Tarifit Keyboard:  
 
-![screenshot](/screenshots/shot0004.jpg)
-![screenshot](/screenshots/shot0005.jpg)
+1. ***Download the disc image**
+    You can download the `TarifitKeyboard.dmg` directly from [here](https://github.com/ipshel/TarifitKeyboardMacOS/raw/main/TarifitKeyboard.dmg)
+2. **Open the downloaded image**  
+   Double-click the `TarifitKeyboard.dmg` file.  
+   ![screenshot](/screenshots/shot0001.jpg)  
 
-5. Close `Tarifit Keyboard` image.
-![screenshot](/screenshots/shot0006.jpg)
+3. **Install the keyboard**  
+   Double-click the `Tarifit` Lego icon (red dot).  
+   ![screenshot](/screenshots/shot0002.jpg)  
 
-6. Eject `Tarifit Keyboard` image.
-![screenshot](/screenshots/shot0007.jpg)
+4. **Choose the installation option**  
+   - Select **"Install for current user"** or **"Install for all users"**.  
+   - Installing for all users will require authentication.  
+   ![screenshot](/screenshots/shot0003.jpg)  
 
-7. Open Keyboard Preferences.
-![screenshot](/screenshots/shot0008.jpg)
+   ***If the above screen does not appear, proceed to Step 4. Otherwise, skip to Step 5.***  
 
-8. Click on `+` sign. Add/Search for *Tarifit*, *Riffian* or *rif*.
-![screenshot](/screenshots/shot0009.jpg)
-![screenshot](/screenshots/shot0010.jpg)
+5. **Alternative method (only if Step 3 fails)**  
+   Drag the `Tarifit` Lego icon into the `Keyboard Layouts` folder (located in the right corner of the window). This method will require authentication.  
+   ![screenshot](/screenshots/shot0004.jpg)  
+   ![screenshot](/screenshots/shot0005.jpg)  
 
-9. Now you can select `Tarifit` among other languages.
-![screenshot](/screenshots/shot0011.jpg)
+6. **Close the image**  
+   Close the `Tarifit Keyboard` window.  
+   ![screenshot](/screenshots/shot0006.jpg)  
 
-## Tarifit
-You can access Tarifit characters by using combination of `option-key` or `⌥` `alt ⌥` and/with/without `shift-key` `⇧` `⇧ shift` as shown below:
+7. **Eject the image**  
+   Right-click and eject the `Tarifit Keyboard` image.  
+   ![screenshot](/screenshots/shot0007.jpg)  
 
-<kbd>alt ⌥</kbd>+<kbd>h</kbd> = ḥ
+8. **Open Keyboard Preferences**  
+   Go to System Preferences → Keyboard → Input Sources.  
+   ![screenshot](/screenshots/shot0008.jpg)  
 
-<kbd>alt ⌥</kbd>+<kbd>t</kbd> = ṭ
+9. **Add the Tarifit Keyboard**  
+   Click the **"+"** button and search for *Tarifit*, *Riffian*, or *rif*. Add the desired option.  
+   ![screenshot](/screenshots/shot0009.jpg)  
+   ![screenshot](/screenshots/shot0010.jpg)  
 
-<kbd>alt ⌥</kbd>+<kbd>d</kbd> = ḍ
+10. **Select Tarifit**  
+   You can now select the Tarifit Keyboard as one of your input sources.  
+   ![screenshot](/screenshots/shot0011.jpg)  
 
-<kbd>alt ⌥</kbd>+<kbd>z</kbd> = ẓ
+---
 
-<kbd>alt ⌥</kbd>+<kbd>s</kbd> = ṣ
+## Using Tarifit Keyboard  
 
-<kbd>alt ⌥</kbd>+<kbd>g</kbd> = ɣ
+You can access Tarifit characters using the `Option ⌥` key (or `Alt`) combined with or without the `Shift ⇧` key as shown below:  
 
-<kbd>alt ⌥</kbd>+<kbd>e</kbd> = ɛ
+| **Combination**          | **Character** |  
+|---------------------------|---------------|  
+| `⌥ + h`                  | ḥ             |  
+| `⌥ + t`                  | ṭ             |  
+| `⌥ + d`                  | ḍ             |  
+| `⌥ + z`                  | ẓ             |  
+| `⌥ + s`                  | ṣ             |  
+| `⌥ + g`                  | ɣ             |  
+| `⌥ + e`                  | ɛ             |  
+| `⌥ + w`                  | ʷ             |  
+| `⌥ + ⇧ + h`              | Ḥ             |  
+| `⌥ + ⇧ + t`              | Ṭ             |  
+| `⌥ + ⇧ + d`              | Ḍ             |  
+| `⌥ + ⇧ + z`              | Ẓ             |  
+| `⌥ + ⇧ + s`              | Ṣ             |  
+| `⌥ + ⇧ + g`              | Ɣ             |  
+| `⌥ + ⇧ + e`              | Ɛ             |  
+| `⌥ + /`                  | ⵣ             |  
 
-<kbd>alt ⌥</kbd>+<kbd>w</kbd> = ʷ
+---
 
-<kbd>alt ⌥</kbd>+<kbd>⇧ shift</kbd>+<kbd>h</kbd> = Ḥ
+## Contributing  
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to modify.  
 
-<kbd>alt ⌥</kbd>+<kbd>⇧ shift</kbd>+<kbd>t</kbd> = Ṭ
+This project is part of the [**Open Rif Project**](https://openrif.com).  
+For more information, contact [Ilyahoo Proshel](mailto:ip@ipshel.com).  
 
-<kbd>alt ⌥</kbd>+<kbd>⇧ shift</kbd>+<kbd>d</kbd> = Ḍ
+---
 
-<kbd>alt ⌥</kbd>+<kbd>⇧ shift</kbd>+<kbd>z</kbd> = Ẓ
+## License  
+This project is licensed under the [GPL](LICENSE).  
 
-<kbd>alt ⌥</kbd>+<kbd>⇧ shift</kbd>+<kbd>s</kbd> = Ṣ
-
-<kbd>alt ⌥</kbd>+<kbd>⇧ shift</kbd>+<kbd>g</kbd> = Ɣ
-
-<kbd>alt ⌥</kbd>+<kbd>⇧ shift</kbd>+<kbd>e</kbd> = Ɛ
-
-<kbd>alt ⌥</kbd>+<kbd>⇧ shift</kbd>+<kbd>h</kbd> = Ḥ
-
-<kbd>⌥</kbd>+<kbd>/</kbd> = ⵣ
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-This is under [**OpenRifProject**](https://openrif.com), for more infos contact [Ilyahoo Proshel](mailto:ip@ipshel.com).
-
-2020
-## License
-[GPL](LICENSE)
+**2020**  
